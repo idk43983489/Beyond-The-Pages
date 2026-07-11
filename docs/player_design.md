@@ -47,3 +47,61 @@ Player ability is divided into several categories.
 - Strength
 - Vertical
 - Stamina
+
+## Player Identity
+
+Players are defined by more than their basketball abilities.
+
+### Personality
+
+Personality affects decisions, relationships, and career paths.
+
+Examples:
+- Competitive
+- Loyal
+- Ambitious
+- Team-focused
+- Confident
+- Humble
+- Controversial
+- Quiet
+
+### Career Goals
+
+Players have personal goals that influence their choices.
+
+Examples:
+- Win championships
+- Become a star
+- Earn a large contract
+- Play for a specific team
+- Build a legacy
+
+### Relationships
+
+Players can develop relationships with other players.
+
+Examples:
+- Friendship
+- Rivalry
+- Respect
+- Dislike
+- Conflict
+
+Relationships can affect:
+- Team chemistry
+- Morale
+- Performance
+- Trade reactions
+- Media stories
+
+### Hidden Factors
+
+Some player traits are not immediately visible.
+
+Examples:
+- Work ethic
+- Leadership potential
+- Loyalty
+- Injury tendency
+- Pressure response
