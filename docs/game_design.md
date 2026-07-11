@@ -22,3 +22,23 @@ Trades, contracts, coaching decisions, and team choices should create long-term 
 
 ### 5. Every save creates a unique story
 No two basketball universes should develop exactly the same way.
+
+## Main Systems
+
+### League System
+Controls teams, schedules, standings, playoffs, and league history.
+
+### Player System
+Controls player creation, ratings, attributes, personalities, careers, and development.
+
+### Simulation System
+Controls how games are simulated, including player performance, team strategy, and results.
+
+### Relationship System
+Controls rivalries, friendships, chemistry, conflicts, and player interactions.
+
+### Transaction System
+Controls trades, free agency, contracts, drafts, and team building.
+
+### Story System
+Creates events, news, press conferences, and moments that shape league history.
