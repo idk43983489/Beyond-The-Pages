@@ -42,3 +42,17 @@ Controls trades, free agency, contracts, drafts, and team building.
 
 ### Story System
 Creates events, news, press conferences, and moments that shape league history.
+
+## Technology
+
+### Programming Language
+Python
+
+### Database
+SQLite
+
+### User Interface
+To be decided.
+
+### Version Control
+GitHub
